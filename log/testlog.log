@@ -1,0 +1,15 @@
+2020-04-20 11:39:42,237 - logs -INFO - Applicaton started
+2020-04-20 11:39:42,499 - logs -INFO - username Entered
+2020-04-20 11:39:42,570 - logs -INFO - Password entered
+2020-04-20 11:39:50,104 - logs -INFO - login button clicked
+2020-04-20 11:51:57,461 - logs -INFO - Applicaton started
+2020-04-20 11:51:57,544 - logs -INFO - username Entered
+2020-04-20 11:51:57,612 - logs -INFO - Password entered
+2020-04-20 11:51:59,122 - logs -INFO - login button clicked
+2020-04-20 11:52:03,661 - logs -INFO - Enter int ActiTime website
+2020-04-20 11:52:03,723 - logs -INFO - Entered username
+2020-04-20 11:52:03,790 - logs -INFO - Entered password
+2020-04-20 11:52:03,861 - logs -INFO - login button clicked
+2020-04-20 11:52:03,861 - logs -INFO - Entered into homepage
+2020-04-20 11:52:05,853 - logs -INFO - logout button clicked
+2020-04-20 11:52:05,855 - logs -INFO - Enter intp loginpage

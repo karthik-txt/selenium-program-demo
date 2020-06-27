@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="frameworkdemo.login3"/>
+      <class name="frameworkdemo.login2"/>
+      <class name="frameworkdemo.testcases2"/>
+      <class name="frameworkdemo.testcases3"/>
+      <class name="frameworkdemo.baseclass1"/>
+      <class name="frameworkdemo.login1"/>
+      <class name="frameworkdemo.calendertable"/>
+      <class name="frameworkdemo.scrolldemo"/>
+      <class name="frameworkdemo.TestCase2"/>
+      <class name="frameworkdemo.testcases1"/>
+      <class name="frameworkdemo.datadrivenframework1"/>
+      <class name="frameworkdemo.readdatausingpoi"/>
+      <class name="frameworkdemo.bootstraplogindemo"/>
+      <class name="frameworkdemo.phantomjsdemo"/>
+      <class name="frameworkdemo.radiobuttoncheckbox"/>
+      <class name="frameworkdemo.DDT1"/>
+      <class name="frameworkdemo.bootstrapdropdowndemo"/>
+      <class name="frameworkdemo.datadrivenframework"/>
+      <class name="frameworkdemo.headlessbrowser"/>
+      <class name="frameworkdemo.readexcell"/>
+      <class name="frameworkdemo.propertyreader"/>
+      <class name="frameworkdemo.Testcase1"/>
+      <class name="frameworkdemo.autosuggestion"/>
+      <class name="frameworkdemo.ojectrepository"/>
+      <class name="frameworkdemo.readproperties1"/>
+      <class name="frameworkdemo.screenshotdemo"/>
+      <class name="frameworkdemo.hiddenelementdemo"/>
+      <class name="frameworkdemo.dropdownprogram"/>
+      <class name="frameworkdemo.testunner"/>
+      <class name="frameworkdemo.brokenlinks1"/>
+      <class name="frameworkdemo.highlightelementdemo"/>
+      <class name="frameworkdemo.dropdown"/>
+      <class name="frameworkdemo.dropdownascdesc"/>
+      <class name="frameworkdemo.sikuli"/>
+      <class name="frameworkdemo.phantomjs"/>
+      <class name="frameworkdemo.brokenlinksdemo"/>
+      <class name="frameworkdemo.writedata1"/>
+      <class name="frameworkdemo.writedata"/>
+      <class name="frameworkdemo.baseclass"/>
+      <class name="frameworkdemo.logs"/>
+      <class name="frameworkdemo.popup"/>
+      <class name="frameworkdemo.verifypagetitle"/>
+      <class name="frameworkdemo.framesdemo"/>
+      <class name="frameworkdemo.DDT"/>
+      <class name="frameworkdemo.uploadfiles"/>
+      <class name="frameworkdemo.propertyreader1"/>
+      <class name="frameworkdemo.executefailedtest"/>
+      <class name="frameworkdemo.handlewindows"/>
+      <class name="frameworkdemo.test"/>
+      <class name="frameworkdemo.readproperties"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

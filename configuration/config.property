@@ -1,0 +1,13 @@
+chromepath=F:\\kk\\frameworkdemo\\browserdriver\\chromedriver.exe
+
+AppUrl=https://opensource-demo.orangehrmlive.com/
+
+com.username.xpath=//input[@id='txtUsername']
+
+com.password.xpath=//input[@id='txtPassword']
+
+com.login.xpath=//input[@id='btnLogin']
+
+com.admin.xpath=//a[text()='Welcome Admin']
+
+com.logout.xpath=//a[text()='Logout']

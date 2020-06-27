@@ -1,0 +1,149 @@
+[INFO  - 2020-04-05T14:51:42.925Z] GhostDriver - Main - running on port 8731
+[INFO  - 2020-04-05T14:51:43.268Z] Session [f6f40af0-774c-11ea-b720-776d20498d8a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-04-05T14:51:43.268Z] Session [f6f40af0-774c-11ea-b720-776d20498d8a] - page.customHeaders:  - {}
+[INFO  - 2020-04-05T14:51:43.268Z] Session [f6f40af0-774c-11ea-b720-776d20498d8a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-04-05T14:51:43.268Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: f6f40af0-774c-11ea-b720-776d20498d8a
+[ERROR - 2020-04-05T14:51:52.082Z] Session [f6f40af0-774c-11ea-b720-776d20498d8a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign({},a.prototype,a.static)')
+[ERROR - 2020-04-05T14:51:52.083Z] Session [f6f40af0-774c-11ea-b720-776d20498d8a] - page.onError - stack:
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:8)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:19)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:19)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:1)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  webpackJsonp (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+[INFO  - 2020-04-05T14:52:14.015Z] GhostDriver - Main - running on port 23442
+[INFO  - 2020-04-05T14:52:14.335Z] Session [09787da0-774d-11ea-817f-e9a6a819b917] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-04-05T14:52:14.335Z] Session [09787da0-774d-11ea-817f-e9a6a819b917] - page.customHeaders:  - {}
+[INFO  - 2020-04-05T14:52:14.335Z] Session [09787da0-774d-11ea-817f-e9a6a819b917] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-04-05T14:52:14.335Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 09787da0-774d-11ea-817f-e9a6a819b917
+[ERROR - 2020-04-05T14:52:16.137Z] Session [09787da0-774d-11ea-817f-e9a6a819b917] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign({},a.prototype,a.static)')
+[ERROR - 2020-04-05T14:52:16.137Z] Session [09787da0-774d-11ea-817f-e9a6a819b917] - page.onError - stack:
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:8)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:19)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:19)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:1)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  webpackJsonp (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+[INFO  - 2020-04-05T14:52:21.171Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2020-04-05T14:52:57.259Z] GhostDriver - Main - running on port 46458
+[INFO  - 2020-04-05T14:52:57.601Z] Session [23425bc0-774d-11ea-ad82-4b8607da7d24] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-04-05T14:52:57.601Z] Session [23425bc0-774d-11ea-ad82-4b8607da7d24] - page.customHeaders:  - {}
+[INFO  - 2020-04-05T14:52:57.601Z] Session [23425bc0-774d-11ea-ad82-4b8607da7d24] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-04-05T14:52:57.601Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 23425bc0-774d-11ea-ad82-4b8607da7d24
+[ERROR - 2020-04-05T14:52:59.405Z] Session [23425bc0-774d-11ea-ad82-4b8607da7d24] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign({},a.prototype,a.static)')
+[ERROR - 2020-04-05T14:52:59.405Z] Session [23425bc0-774d-11ea-ad82-4b8607da7d24] - page.onError - stack:
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:8)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:19)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:19)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:1)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  webpackJsonp (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+[INFO  - 2020-04-05T14:53:03.310Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2020-04-05T14:53:36.415Z] GhostDriver - Main - running on port 43170
+[INFO  - 2020-04-05T14:53:36.768Z] Session [3a9ac4b0-774d-11ea-8209-8fcf0c81aa6c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-04-05T14:53:36.768Z] Session [3a9ac4b0-774d-11ea-8209-8fcf0c81aa6c] - page.customHeaders:  - {}
+[INFO  - 2020-04-05T14:53:36.768Z] Session [3a9ac4b0-774d-11ea-8209-8fcf0c81aa6c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-04-05T14:53:36.769Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3a9ac4b0-774d-11ea-8209-8fcf0c81aa6c
+[ERROR - 2020-04-05T14:53:38.884Z] Session [3a9ac4b0-774d-11ea-8209-8fcf0c81aa6c] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign({},a.prototype,a.static)')
+[ERROR - 2020-04-05T14:53:38.884Z] Session [3a9ac4b0-774d-11ea-8209-8fcf0c81aa6c] - page.onError - stack:
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:8)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:19)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:19)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:1)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  webpackJsonp (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+[INFO  - 2020-04-05T14:53:42.378Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2020-04-05T14:54:27.979Z] GhostDriver - Main - running on port 8852
+[INFO  - 2020-04-05T14:54:28.372Z] Session [595ce9f0-774d-11ea-8d13-b77e9f28b92a] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-04-05T14:54:28.372Z] Session [595ce9f0-774d-11ea-8d13-b77e9f28b92a] - page.customHeaders:  - {}
+[INFO  - 2020-04-05T14:54:28.372Z] Session [595ce9f0-774d-11ea-8d13-b77e9f28b92a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-04-05T14:54:28.372Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 595ce9f0-774d-11ea-8d13-b77e9f28b92a
+[ERROR - 2020-04-05T14:54:29.711Z] Session [595ce9f0-774d-11ea-8d13-b77e9f28b92a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'Object.assign({},a.prototype,a.static)')
+[ERROR - 2020-04-05T14:54:29.712Z] Session [595ce9f0-774d-11ea-8d13-b77e9f28b92a] - page.onError - stack:
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:8)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:19)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:19)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:16)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  (anonymous function) (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_main-727c9bb7820265cc4482.js:1)
+  t (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+  webpackJsonp (https://goibibo.ibcdn.com/flt_hotelsnstatic/dist/flt_vendor-7bb3a3aeace578af1c45.js:1)
+[INFO  - 2020-04-05T14:54:33.546Z] ShutdownReqHand - _handle - About to shutdown
+[INFO  - 2020-04-06T04:00:35.985Z] GhostDriver - Main - running on port 22864
+[INFO  - 2020-04-06T04:00:36.671Z] Session [2bdc29a0-77bb-11ea-a48c-3349d922946e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-04-06T04:00:36.671Z] Session [2bdc29a0-77bb-11ea-a48c-3349d922946e] - page.customHeaders:  - {}
+[INFO  - 2020-04-06T04:00:36.671Z] Session [2bdc29a0-77bb-11ea-a48c-3349d922946e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-04-06T04:00:36.671Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 2bdc29a0-77bb-11ea-a48c-3349d922946e
+[INFO  - 2020-04-06T04:05:35.983Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-06T04:10:35.987Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-06T04:15:35.987Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-06T04:20:35.989Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-06T04:25:35.991Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-06T04:30:35.992Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T06:16:32.082Z] GhostDriver - Main - running on port 4238
+[INFO  - 2020-04-28T06:16:32.137Z] Session [cdfc0440-8917-11ea-9832-ff88cd2f8a34] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-04-28T06:16:32.137Z] Session [cdfc0440-8917-11ea-9832-ff88cd2f8a34] - page.customHeaders:  - {}
+[INFO  - 2020-04-28T06:16:32.137Z] Session [cdfc0440-8917-11ea-9832-ff88cd2f8a34] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-7-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-04-28T06:16:32.138Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cdfc0440-8917-11ea-9832-ff88cd2f8a34
+[INFO  - 2020-04-28T06:21:32.080Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T06:26:32.080Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T06:31:32.080Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T06:36:32.112Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T06:41:32.111Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T06:46:32.111Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T06:51:32.142Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T06:56:32.142Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T07:01:32.142Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T07:06:32.174Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T07:11:32.174Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T07:16:32.174Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T07:21:32.205Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T07:26:32.205Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T07:31:32.205Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T07:36:32.205Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T07:41:32.236Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T07:46:32.236Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T07:51:32.236Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T07:56:32.267Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T08:01:32.267Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T08:06:32.267Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T08:11:32.299Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-04-28T08:16:32.299Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
